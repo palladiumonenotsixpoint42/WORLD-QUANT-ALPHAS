@@ -1,4 +1,3 @@
-# WORLD-QUANT-ALPHAS 
 # World Quant Alphas Repository
 
 Welcome to the World Quant Alphas Repository!
