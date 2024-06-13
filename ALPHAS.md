@@ -91,3 +91,5 @@ USA TOP3000, DECAY 25, DELAY 1, TRUNCATION 0.01, NEUTRALIZATION SUBINDUSTRY
 avg_news = vec_avg(nws12_afterhsz_sl);
 rank(ts_sum(avg_news, 60)) > 0.5 ? 1 : rank(-ts_delta(close, 2))
 ```
+
+---
