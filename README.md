@@ -49,5 +49,4 @@ If you have any questions or suggestions, feel free to open an issue or reach ou
 Happy Trading!
 
 ---
-
-[Your Name or Organization]
+PRAVEEN DEEPAK
